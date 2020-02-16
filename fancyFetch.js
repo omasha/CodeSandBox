@@ -1,6 +1,6 @@
 import "./styles.css";
 /*
-go to https://www.mocky.io/ to generate a test link and add delay option
+go to https://www.mocky.io/ to generate a test link, add delay option at the end
 */
 const FETCH_TIMEOUT = 500;
 const URL_T =
